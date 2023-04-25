@@ -16,20 +16,12 @@ The raw dataset had missing values and columns that were not useful for our anal
 ## Data Analysis
 We conducted several analyses on the dataset to explore different aspects of the games, including:
 
-Correlation between player ratings and game outcomes
-Average rating difference between players and its relation to game outcomes
-Distribution of game lengths in terms of moves
-How time control of a game affects player ratings and game outcomes
+* Correlation between player ratings and game outcomes
+* Average rating difference between players and its relation to game outcomes
+* Distribution of game lengths in terms of moves
+* How time control of a game affects player ratings and game outcomes
+
 We visualized the results using histograms and scatter plots.
 
 ## Conclusion
-Through our analysis, we found that higher-rated players tend to win more often and that there is a strong correlation between player ratings and game outcomes. We also discovered interesting trends in game lengths and how they vary based on the outcome and time control.
-
-Future Work
-In the future, we could expand our analysis to include other factors that may affect game outcomes, such as the opening moves played or the time of day the game was played. We could also train a machine learning model to predict game outcomes based on player ratings and other factors.
-
-
-
-
-
-
+Through our analysis, we found that higher-rated players tend to win more often and that there is a strong correlation between player ratings and game outcomes. We also discovered interesting trends in game lengths and how they vary based on the outcome and time control. We also analysed some of the most common and powerful openings 
